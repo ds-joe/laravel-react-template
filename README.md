@@ -7,6 +7,7 @@ This Laravel React template is a great starting point for building modern, scala
 - A Laravel backend with a basic API
 - A React frontend with a simple homepage
 - TypeScript support for type safety
+- Spatie for roles and permissions [Visit documentation](https://spatie.be/docs/laravel-permission/v5/introduction)
 - Sass support for CSS pre-processing
 - Tailwind CSS support for utility-first CSS
 
