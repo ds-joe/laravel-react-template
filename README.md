@@ -10,6 +10,7 @@ This Laravel React template is a great starting point for building modern, scala
 - Spatie for roles and permissions [Visit documentation](https://spatie.be/docs/laravel-permission/v5/introduction)
 - Sass support for CSS pre-processing
 - Tailwind CSS support for utility-first CSS
+- Vitest support for valid ui to avoid any bugs
 
 **To use the template, simply clone the repository and run the following commands:**
 
