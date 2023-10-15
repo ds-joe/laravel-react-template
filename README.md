@@ -25,6 +25,10 @@ npm start
 # test react pages using typescript.
 npm run test:ts
 
+# test react pages & components with vitest
+npm run test
+npm run test:coverage
+
 # build front end files.
 npm run build
 ```

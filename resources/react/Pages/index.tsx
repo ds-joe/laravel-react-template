@@ -7,7 +7,7 @@ const Home: FC = () => {
     <main>
       <Head title="Home" />
       <div className="home-page">
-        Home Page
+        <button id="lucky">Click Me!</button>
       </div>
     </main>
   )
