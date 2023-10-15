@@ -50,5 +50,3 @@ npm run build
 - Well-supported
 
 If you are looking for a complete and feature-rich Laravel React template with TypeScript, Sass, and Tailwind CSS support, then this is the template for you.
-
-To use this markdown code, simply copy and paste it into your markdown document. You can then use the markdown preview feature to see how the description will look when it is rendered.
